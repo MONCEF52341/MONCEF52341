@@ -21,8 +21,8 @@ Bienvenue sur mon GitHub ! Je suis un marocain passionné de bricolage et d'inve
 
 ### 🔙 Back-end
 
-| ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) | ![Dotnet](https://img.shields.io/badge/.NET-5C2D91?logo=dotnet&logoColor=fff) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) | ![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white) | ![Adonis](https://img.shields.io/badge/AdonisJS-220052?logo=adonisjs&logoColor=fff) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) | ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
-|---|---|---|---|---|---|---|---|---|---|---|
+| ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) | ![Dotnet](https://img.shields.io/badge/.NET-5C2D91?logo=dotnet&logoColor=fff) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) | ![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white) | ![Adonis](https://img.shields.io/badge/AdonisJS-220052?logo=adonisjs&logoColor=fff) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
+|---|---|---|---|---|---|---|---|---|
 
 ### 🗄️ Bases de données
 
