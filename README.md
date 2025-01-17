@@ -1,14 +1,13 @@
-# Bonjour, je suis Moncef 👋
+# Bonjour, je suis Moncef.
 
-Bienvenue sur mon GitHub ! Je suis un marocain passionné de bricolage et d'invention, avec un amour particulier pour la cuisine, la menuiserie et la natation (je suis ce qu'on pourrait appeler un original). J'adore toujours être à jour sur les nouveautés de mon domaine. Voici un aperçu de moi et de mon travail.
+Bienvenue sur mon GitHub.
 
 ---
 
 ## 🚀 À propos de moi
 
--  Je travaille actuellement sur divers projets sans grands liens entre eux, surtout par passion et découverte.
 -  J'essaye constamment d’être au niveau.
--  J'aime aider les autres, même si je n'ai pas trouvé quelqu'un pour m'aider.
+-  Je cherche quelqu'un pour m'aider.
 
 ---
 
@@ -46,7 +45,7 @@ Bienvenue sur mon GitHub ! Je suis un marocain passionné de bricolage et d'inve
 
 ---
 
-Merci de votre visite ! Bon courage et surtout bonne chance.
+Bon courage et surtout bonne chance.
 
 ---
 
