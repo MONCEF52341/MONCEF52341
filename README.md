@@ -2,6 +2,14 @@
 
 Bienvenue sur mon GitHub.
 
+Harder, better
+Faster, stronger
+
+Work it harder, make it better
+Do it faster, makes us stronger
+More than ever, hour after hour
+Work is never ove
+
 ---
 
 ## 🚀 À propos de moi
