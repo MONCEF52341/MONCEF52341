@@ -31,7 +31,7 @@ Harder, better, faster, stronger
 | ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-000?logo=timescaledb&logoColor=fff) | ![Apache Phoenix](https://img.shields.io/badge/Apache%20Phoenix-F8DC75?logo=apachephoenix&logoColor=white) |
 |---|---|---|---|---|---|
 
-### ⚙️ DevOps & Outils
+### ⚙️ Outils
 
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-2496ED?logo=dockerswarm&logoColor=white) | ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=openshift&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white) | ![Logstash](https://img.shields.io/badge/Logstash-005571?logo=logstash&logoColor=white) | ![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white) | 
 |---|---|---|---|---|---|---|---|
