@@ -1,8 +1,6 @@
-# Bonjour, je suis Moncef.
-
-Bienvenue sur mon GitHub.
-
-Harder, better, faster, stronger
+# 👋 Salut, je suis Moncef  
+**Codeur polyvalent • Amateur de Daft Punk • En quête d'un ami**  
+*"Harder, better, faster, stronger" n'est pas qu'une chanson, c'est mon mantra quotidien.*
 
 
 ---
@@ -11,10 +9,16 @@ Harder, better, faster, stronger
 
 -  J'essaye constamment d’être au niveau.
 -  Je cherche quelqu'un pour m'aider.
+-  J'ai une passion suspecte pour les CLI.
+-  Les PWA défoncent les apps natives (c'est pas à propos de moi c'est juste un fait et il faut s'y faire).
 
 ---
 
+
 ## 🛠️ Technologies & Outils
+
+
+![Moncef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MONCEF52341&show_icons=true&theme=radical&hide_border=true)
 
 ### 💻 Front-end
 
