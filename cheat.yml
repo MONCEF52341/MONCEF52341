@@ -1,0 +1,49 @@
+name: Birthday Countdown Updater
+
+on:
+  schedule:
+    - cron: '0 5,13,17 * * *' # 6h, 14h, 18h CET (UTC+1)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Calculate days remaining
+        id: calc
+        run: |
+          python - <<EOF
+          from datetime import datetime
+          today = datetime.today()
+          year = today.year
+          birthday = datetime(year, 2, 26)
+          
+          if today > birthday:
+              birthday = datetime(year + 1, 2, 26)
+          
+          delta = birthday - today
+          print(f"DAYS_LEFT={delta.days}")
+          EOF
+        env:
+          TZ: Europe/Paris
+
+      - name: Update README
+        run: |
+          sed -i "s/<!-- DAYS_UNTIL_BIRTHDAY -->.*<!-- END_DAYS -->/<!-- DAYS_UNTIL_BIRTHDAY -->🕰️ Prochain anniversaire dans ${{ steps.calc.outputs.DAYS_LEFT }} jours ! <!-- END_DAYS -->/g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update birthday countdown"
+          git push

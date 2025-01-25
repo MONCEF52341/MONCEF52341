@@ -1,8 +1,8 @@
 # 👋 Salut, je suis Moncef  
-**Codeur polyvalent • Amateur de Daft Punk • En quête d'un ami**  
+**Informaticien • Chercheur, mais n'a pas encore trouvé**  
 *"Harder, better, faster, stronger" n'est pas qu'une chanson, c'est mon mantra quotidien.*
 
-
+*"La perfection technique n'existe pas, mais mes commits essayent quand même."*
 ---
 
 ## 🚀 À propos de moi
@@ -14,11 +14,15 @@
 
 ---
 
+## 🔥 Mes passions tech : 
+  - Configurer Neovim pendant 6h pour gagner 0.3s sur un workflow
+  - Créer des alias shell plus longs que les commandes originales
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MONCEF52341&layout=compact&theme=aura_dark&hide_border=true)](https://github.com/MONCEF52341)
+
+---
 
 ## 🛠️ Technologies & Outils
-
-
-![Moncef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MONCEF52341&show_icons=true&theme=radical&hide_border=true)
 
 ### 💻 Front-end
 
@@ -51,6 +55,7 @@
 |---|---|---|---|---|---|
 
 ---
+<!-- DAYS_UNTIL_BIRTHDAY -->🕰️ Prochain anniversaire dans X jours ! <!-- END_DAYS -->
 
 Bon courage et surtout bonne chance.
 
