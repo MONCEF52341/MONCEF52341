@@ -55,7 +55,7 @@
 |---|---|---|---|---|---|
 
 ---
-<!-- DAYS_UNTIL_BIRTHDAY -->🕰️ Prochain anniversaire dans X jours ! <!-- END_DAYS -->
+<!-- DAYS_UNTIL_BIRTHDAY -->🕰️ Prochain anniversaire dans  jours ! <!-- END_DAYS -->
 
 Bon courage et surtout bonne chance.
 
