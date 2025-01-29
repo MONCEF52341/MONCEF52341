@@ -1,5 +1,5 @@
 # 👋 Salut, je suis Moncef  
-**Informaticien • Chercheur, mais n'a pas encore trouvé**  
+**Informaticien • Marketeur • Chercheur, mais n'a pas encore trouvé**  
 *"Harder, better, faster, stronger" n'est pas qu'une chanson, c'est mon mantra quotidien.*
 
 *"La perfection technique n'existe pas, mais mes commits essayent quand même."*
@@ -8,13 +8,13 @@
 ## 🚀 À propos de moi
 
 -  J'essaye constamment d’être au niveau.
--  Je cherche quelqu'un pour m'aider.
+-  Je cherche quelqu'un pour m'aider. (J'ai fini par trouver).
 -  J'ai une passion suspecte pour les CLI.
 -  Les PWA défoncent les apps natives (c'est pas à propos de moi c'est juste un fait et il faut s'y faire).
 
 ---
 
-## 🔥 Mes passions tech : 
+## 🔥 Mes passions : 
   - Configurer Neovim pendant 6h pour gagner 0.3s sur un workflow
   - Créer des alias shell plus longs que les commandes originales
 
