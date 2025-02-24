@@ -29,7 +29,7 @@
 
 ### 🔙 Back-end
 
-| ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) | ![Dotnet](https://img.shields.io/badge/.NET-5C2D91?logo=dotnet&logoColor=fff) | ![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Lua]([https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white](https://img.shields.io/badge/Lua-050586?logo=lua&logoColor=white)) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
+| ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) | ![Dotnet](https://img.shields.io/badge/.NET-5C2D91?logo=dotnet&logoColor=fff) | ![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Lua]([[https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white](https://img.shields.io/badge/LUA-000081?logo=lua&logoColor=white)](https://img.shields.io/badge/Lua-050586?logo=lua&logoColor=white)) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
 |---|---|---|---|---|---|
 
 ### 🗄️ Bases de données
