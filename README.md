@@ -1,6 +1,4 @@
 # 👋 Salut, je suis Moncef  
-**Informaticien • Marketeur • Chercheur, mais n'a pas encore trouvé**  
-
 *"La perfection n'existe pas, mais mes commits essayent quand même."*
 ---
 
